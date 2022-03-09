@@ -1,1 +1,1 @@
-# Bo-v12-Altyap-s-
+Bu boş altyapı STRANGE tarafından hazırlanmıştır.
