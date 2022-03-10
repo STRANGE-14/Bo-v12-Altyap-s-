@@ -1,0 +1,11 @@
+{
+  "name": "bosaltyapi",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Strange",
+  "license": "ISC"
+}
