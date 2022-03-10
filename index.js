@@ -98,3 +98,6 @@ client.on('error', e => {
 });
 
 client.login(ayarlar.token);
+
+
+////STRANGE V12 BOŞ ALTYAPI////
