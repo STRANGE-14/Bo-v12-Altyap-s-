@@ -10,9 +10,10 @@ module.exports = client => {
     `[${moment().format("YYYY-MM-DD HH:mm:ss")}] BOT: Aktif, Komutlar yüklendi!`
   );
   console.log(
-    `[${moment().format("YYYY-MM-DD HH:mm:ss")}] BOT: ${
-      client.user.username
-    } ismi ile giriş yapıldı!`
+    `client.user.username
+bot giriş yaptı!
+sese giriş yaptı bot!
+STRANGE :)`
   );
   client.user.setStatus("idle");
   var oyun = [
